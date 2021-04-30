@@ -6,7 +6,15 @@ AS A small business owner I WANT to be able to write and save notes SO THAT I ca
 
 
 ## Installation Instructions
+You will need following  :
 
+* Node.js
+
+* Express.js
+
+* MongoDB
+
+* Mongoose
 
 
 
@@ -18,6 +26,7 @@ Navigate to : https://blooming-brook-71366.herokuapp.com/
 ## Usage
 
 ## Mock-up 
+![Workout tracker homepage](./public/assets/images/workouttrackerhomepage.png)
 
 
 
